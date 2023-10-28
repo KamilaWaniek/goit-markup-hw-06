@@ -827,6 +827,17 @@ ol {
   letter-spacing: 0.48px;
 }
 
+.user-privacy-box {
+  width: 16px;
+  height: 16px;
+  border: 1px solid rgba(46, 47, 66, 0.4);
+  border-radius: 2px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  fill: transparent;
+}
+
 .form-send-button {
   display: block;
   min-width: 169px;
