@@ -812,6 +812,10 @@ ol {
   border-color: var(--main-page-color-2);
 }
 
+.modal-form-fourth-box {
+  margin-bottom: 24px;
+}
+
 .form-send-button {
   display: block;
   min-width: 169px;
