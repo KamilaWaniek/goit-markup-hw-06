@@ -816,6 +816,17 @@ ol {
   margin-bottom: 24px;
 }
 
+.modal-form-privacy-label {
+  display: block;
+  color: var(--main-border-color);
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.17;
+  letter-spacing: 0.48px;
+}
+
 .form-send-button {
   display: block;
   min-width: 169px;
