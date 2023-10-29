@@ -841,12 +841,7 @@ ol {
     fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-form-privacy-input:checked {
-  stroke-width: 1px;
-  stroke: rgba(46, 47, 66, 0.4);
-}
-
-.modal-form-privacy-input:checked + .user-privacy > span {
+.modal-form-privacy-input:checked + .modal-form-privacy-label span {
   background-color: var(--active-links-color);
   border: none;
   fill: var(--main-text-color-2);
