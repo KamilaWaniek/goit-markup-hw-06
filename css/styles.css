@@ -773,6 +773,10 @@ ol {
   border-color: var(--main-page-color-2);
 }
 
+.modal-form-input:focus .modal-form-icon {
+  fill: var(--main-page-color-2);
+}
+
 .modal-form-icon {
   position: absolute;
   left: 16px;
@@ -830,8 +834,8 @@ ol {
 .user-privacy-box {
   width: 16px;
   height: 16px;
-  border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 2px;
+  border: 1px solid rgba(46, 47, 66, 0.4);
   display: inline-flex;
   align-items: center;
   justify-content: center;
